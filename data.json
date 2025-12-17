@@ -20,11 +20,11 @@
       "wallpapers": [
         {
           "id": 201,
-          "url": "https://raw.githubusercontent.com/YOUR_USERNAME/wallpaper-backend/main/wallpapers/nature/1.webp"
+          "url": "https://raw.githubusercontent.com/YOUR_USERNAME/wallpaper-backend/main/wallpapers/nature/Nature1.webp"
         },
         {
           "id": 202,
-          "url": "https://raw.githubusercontent.com/YOUR_USERNAME/wallpaper-backend/main/wallpapers/nature/2.webp"
+          "url": "https://raw.githubusercontent.com/YOUR_USERNAME/wallpaper-backend/main/wallpapers/nature/Nature2.webp"
         }
       ]
     }
